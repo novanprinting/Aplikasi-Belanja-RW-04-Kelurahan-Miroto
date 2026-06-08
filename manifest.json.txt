@@ -1,0 +1,20 @@
+{
+  "name": "Aplikasi Belanja RW 04 Kelurahan Miroto",
+  "short_name": "4-MART",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3730a3",
+  "icons": [
+    {
+      "src": "logo4mart.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "logo4mart.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
